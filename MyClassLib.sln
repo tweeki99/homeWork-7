@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyClassLib", "MyClassLib\MyClassLib.csproj", "{B6BF6EE2-466E-4CB7-B6A9-0A522612CFA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day7 (Tanks)", "Day7 (Tanks)\Day7 (Tanks).csproj", "{77351DF7-009C-4E53-B55D-104E290BD0E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6BF6EE2-466E-4CB7-B6A9-0A522612CFA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6BF6EE2-466E-4CB7-B6A9-0A522612CFA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6BF6EE2-466E-4CB7-B6A9-0A522612CFA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6BF6EE2-466E-4CB7-B6A9-0A522612CFA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77351DF7-009C-4E53-B55D-104E290BD0E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77351DF7-009C-4E53-B55D-104E290BD0E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77351DF7-009C-4E53-B55D-104E290BD0E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77351DF7-009C-4E53-B55D-104E290BD0E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {846D5189-8FBC-43EA-9259-4FC18B3E003F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+c:\users\шипиловд\source\repos\MyClassLib\MyClassLib\bin\Debug\MyClassLib.dll
+c:\users\шипиловд\source\repos\MyClassLib\MyClassLib\bin\Debug\MyClassLib.pdb
+c:\users\шипиловд\source\repos\MyClassLib\MyClassLib\obj\Debug\MyClassLib.csprojAssemblyReference.cache
+c:\users\шипиловд\source\repos\MyClassLib\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+c:\users\шипиловд\source\repos\MyClassLib\MyClassLib\obj\Debug\MyClassLib.dll
+c:\users\шипиловд\source\repos\MyClassLib\MyClassLib\obj\Debug\MyClassLib.pdb
+C:\Users\Shipa\source\repos\MyClassLib\MyClassLib\bin\Debug\MyClassLib.dll
+C:\Users\Shipa\source\repos\MyClassLib\MyClassLib\bin\Debug\MyClassLib.pdb
+C:\Users\Shipa\source\repos\MyClassLib\MyClassLib\obj\Debug\MyClassLib.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\MyClassLib\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\MyClassLib\MyClassLib\obj\Debug\MyClassLib.dll
+C:\Users\Shipa\source\repos\MyClassLib\MyClassLib\obj\Debug\MyClassLib.pdb

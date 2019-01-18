@@ -1,0 +1,20 @@
+c:\users\шипиловд\source\repos\MyClassLib\Day7 (Tanks)\bin\Debug\Day7 (Tanks).exe.config
+c:\users\шипиловд\source\repos\MyClassLib\Day7 (Tanks)\bin\Debug\Day7 (Tanks).exe
+c:\users\шипиловд\source\repos\MyClassLib\Day7 (Tanks)\bin\Debug\Day7 (Tanks).pdb
+c:\users\шипиловд\source\repos\MyClassLib\Day7 (Tanks)\bin\Debug\MyClassLib.dll
+c:\users\шипиловд\source\repos\MyClassLib\Day7 (Tanks)\bin\Debug\MyClassLib.pdb
+c:\users\шипиловд\source\repos\MyClassLib\Day7 (Tanks)\obj\Debug\Day7 (Tanks).csprojAssemblyReference.cache
+c:\users\шипиловд\source\repos\MyClassLib\Day7 (Tanks)\obj\Debug\Day7 (Tanks).csproj.CoreCompileInputs.cache
+c:\users\шипиловд\source\repos\MyClassLib\Day7 (Tanks)\obj\Debug\Day7 (Tanks).csproj.CopyComplete
+c:\users\шипиловд\source\repos\MyClassLib\Day7 (Tanks)\obj\Debug\Day7 (Tanks).exe
+c:\users\шипиловд\source\repos\MyClassLib\Day7 (Tanks)\obj\Debug\Day7 (Tanks).pdb
+C:\Users\Shipa\source\repos\MyClassLib\Day7 (Tanks)\obj\Debug\Day7 (Tanks).csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\MyClassLib\Day7 (Tanks)\obj\Debug\Day7 (Tanks).csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\MyClassLib\Day7 (Tanks)\obj\Debug\Day7 (Tanks).exe
+C:\Users\Shipa\source\repos\MyClassLib\Day7 (Tanks)\obj\Debug\Day7 (Tanks).pdb
+C:\Users\Shipa\source\repos\MyClassLib\Day7 (Tanks)\bin\Debug\Day7 (Tanks).exe.config
+C:\Users\Shipa\source\repos\MyClassLib\Day7 (Tanks)\bin\Debug\Day7 (Tanks).exe
+C:\Users\Shipa\source\repos\MyClassLib\Day7 (Tanks)\bin\Debug\Day7 (Tanks).pdb
+C:\Users\Shipa\source\repos\MyClassLib\Day7 (Tanks)\bin\Debug\MyClassLib.dll
+C:\Users\Shipa\source\repos\MyClassLib\Day7 (Tanks)\bin\Debug\MyClassLib.pdb
+C:\Users\Shipa\source\repos\MyClassLib\Day7 (Tanks)\obj\Debug\Day7 (Tanks).csproj.CopyComplete
